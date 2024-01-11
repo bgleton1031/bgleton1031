@@ -10,7 +10,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [SIEM Tutorial | Azure Tutorial with LIVE CYBER ATTACKS! ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [SIEM Tutorial | Azure Tutorial with LIVE CYBER ATTACKS! ]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://youtu.be/mDZtjrGQGPI))
 - [How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2> 🤳 Connect with me:</h2>
