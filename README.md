@@ -5,8 +5,8 @@
 - <b>SIEM and Honeypot Creation</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Active Directory Home Lab</b>
-  - How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/bgleton1031/ActiveDirectory_PowerShell) <b><i>
-
+<b>How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b>
+  - [Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/bgleton1031/ActiveDirectory_PowerShell)
 
 <h2>📺 Popular YouTube Videos</h2>
 
