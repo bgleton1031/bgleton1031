@@ -20,6 +20,11 @@
 - [SIEM Tutorial | Azure Tutorial with LIVE CYBER ATTACKS! ](VIDEO BEING EDITED AS WE SPEAK!)
 - [How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://youtu.be/mDZtjrGQGPI)
 
+<h2> ⚡ Fun fact about me:</h2>
+
+  -  <b> I have an identical twin brother. (Until I can prove otherwise, my mother says that he is my brother 🤷🏾)</b>
+  -  <b> I tried out for a CFL team (Canadian Football League), 4 years from high school, and had no college football experience.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
