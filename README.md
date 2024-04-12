@@ -8,6 +8,12 @@
 <b>How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b>
   - [Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/bgleton1031/ActiveDirectory_PowerShell)
 
+
+<h2>👨‍💻 Network Projects:</h2>
+
+- <b>SOHO Project with Cisco Packet Tracker</b>
+  - [Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/bgleton1031/ActiveDirectory_PowerShell)
+
 <h2>🌱 I’m currently learning:</h2>
 
   - <b>Splunk</b>
