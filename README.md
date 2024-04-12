@@ -11,8 +11,9 @@
 
 <h2>👨‍💻 Network Projects:</h2>
 
-- <b>SOHO Project with Cisco Packet Tracker</b>
-  - [Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/bgleton1031/ActiveDirectory_PowerShell)
+- <b>SOHO Networking Project with Cisco Packet Tracer </b>
+  - [SOHO Project with Cisco Packet Tracer](https://github.com/bgleton1031/SOHO-Project/tree/main)
+    
 
 <h2>🌱 I’m currently learning:</h2>
 
