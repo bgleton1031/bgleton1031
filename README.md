@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bernard! <br/><a href="https://github.com/bgleton1031">IT Professional & Instructor</a>, <a href="https://www.[linkedin.com/in/bernard-gleton/)">Podcaster</a>, <a href="https://www.youtube.com/channel/UCAzcMSM7X4oWAxbqIzdzfrg">YouTuber</a></h1>
+<h1>Hi, I'm Bernard! <br/><a href="https://github.com/bgleton1031">IT Professional & Instructor</a>, <a href="https://www.linkedin.com/in/bernard-gleton">Podcaster</a>, <a href="https://www.youtube.com/channel/UCAzcMSM7X4oWAxbqIzdzfrg">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
