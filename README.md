@@ -13,6 +13,9 @@
 
 - <b>SOHO Networking Project with Cisco Packet Tracer </b>
   - [SOHO Project with Cisco Packet Tracer](https://github.com/bgleton1031/SOHO-Project/tree/main)
+
+<h2> 🤓 Trainings that I've lead</h2>
+-<b> Breaking Barriers: Adult Learning Unveiled and Explored! [Professional Development Training]</b>
     
 
 <h2>🌱 I’m currently learning:</h2>
