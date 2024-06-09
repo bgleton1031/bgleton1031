@@ -26,7 +26,8 @@
 
 - [SIEM Tutorial | Azure Tutorial with LIVE CYBER ATTACKS! ](VIDEO BEING EDITED AS WE SPEAK!)
 - [How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://youtu.be/mDZtjrGQGPI)
-
+- Breaking Barriers: Adult Learning Unveiled and Explored! [Professional Development Training](https://youtu.be/OWQoO6g6ygs?si=NheodjNzjM48h_mo)
+  
 <h2> ⚡ Fun fact about me:</h2>
 
   -  <b> I have an identical twin brother. (Until I can prove otherwise, my mother says that he is my brother 🤷🏾)</b>
