@@ -16,6 +16,7 @@
 
 <h2> 🤓 Trainings that I've Lead</h2>
 -<b> Breaking Barriers: Adult Learning Unveiled and Explored! [Professional Development Training]</b>
+  - Breaking Barriers: Adult Learning Unveiled and Explored! [Professional Development Training](https://github.com/bgleton1031/Trainings-that-I-ve-Lead/blob/main/README.md)
     
 
 <h2>🌱 I’m currently learning:</h2>
