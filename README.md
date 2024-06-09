@@ -14,10 +14,10 @@
 - <b>SOHO Networking Project with Cisco Packet Tracer </b>
   - [SOHO Project with Cisco Packet Tracer](https://github.com/bgleton1031/SOHO-Project/tree/main)
 
-<h2> 🤓 Trainings that I've Lead</h2>
+<h2> 🤓 Trainings that I've Lead</h2><a href="https://github.com/bgleton1031/Trainings-that-I-ve-Lead"/a>
 -<b> Breaking Barriers: Adult Learning Unveiled and Explored! [Professional Development Training]</b>
-  - Breaking Barriers: Adult Learning Unveiled and Explored! [Professional Development Training](https://github.com/bgleton1031/Trainings-that-I-ve-Lead/blob/main/README.md)
-    
+  
+-<b> Discovering Business Principles (LIVE PODCAST PANELIST DISCUSSION)</b>
 
 <h2>🌱 I’m currently learning:</h2>
 
