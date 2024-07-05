@@ -17,7 +17,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Build a DOPE Chat App in Java - For High Schoolers! </b>
-  - [Java Chat App](https://github.com/bgleton1031/java-chat-app/main)
+  - [Java Chat App](https://github.com/bgleton1031/Java-Chat-App/blob/main/README.md)
 
 <h2> 🤓 Trainings that I've Lead</h2><a href="https://github.com/bgleton1031/Trainings-that-I-ve-Lead"/a>
 -<b> Breaking Barriers: Adult Learning Unveiled and Explored! [Professional Development Training]</b>
