@@ -13,6 +13,11 @@
 
 - <b>SOHO Networking Project with Cisco Packet Tracer </b>
   - [SOHO Project with Cisco Packet Tracer](https://github.com/bgleton1031/SOHO-Project/tree/main)
+ 
+<h2>👨‍💻 Coding Projects:</h2>
+
+- <b>Build a DOPE Chat App in Java - For High Schoolers! </b>
+  - [Java Chat App](https://github.com/bgleton1031/java-chat-app/main)
 
 <h2> 🤓 Trainings that I've Lead</h2><a href="https://github.com/bgleton1031/Trainings-that-I-ve-Lead"/a>
 -<b> Breaking Barriers: Adult Learning Unveiled and Explored! [Professional Development Training]</b>
