@@ -31,8 +31,7 @@
 <h2>🌱 I’m currently learning:</h2>
 
   - <b>Splunk</b>
-  - <b>CompTIA Network+</b>
-  - <b>CompTIA Security+</b>
+  - <b>AI Automation</b>
   - <b>Qualysgaurd Vulnerablity Management</b>
 
 <h2>📺 Popular YouTube Videos</h2>
