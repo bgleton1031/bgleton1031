@@ -31,7 +31,7 @@
 <h2>🌱 I’m currently learning:</h2>
 
   - <b>Splunk</b>
-  - <b>AI Automation</b>
+  - <b>AI Automation with Python</b>
   - <b>Qualysgaurd Vulnerablity Management</b>
 
 <h2>📺 Popular YouTube Videos</h2>
