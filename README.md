@@ -61,8 +61,9 @@ security posture, streamline communication, and scale technical enablement acros
 
 - Splunk (SIEM & log analysis)
 - AI Automation with Python
-- QualysGuard Vulnerability Management
+- AI Intergration 
 - AI Governance & Responsible AI Practices
+- Teaching & training methods
 
 <h2>📺 Featured YouTube Content</h2>
 
