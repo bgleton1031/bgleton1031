@@ -29,6 +29,9 @@ security posture, streamline communication, and scale technical enablement acros
 - <b>AI-Powered Client Communication Workflow</b>  
   Governance-aware AI workflow that streamlines client communication using structured intake, AI-generated drafts, human review, CRM/email automation, and knowledge base logging.  
   - <a href="https://github.com/bgleton1031/AI-Powered-Client-Communication-Workflow">View Repository</a>
+- <b>Quiet Rich Club AI Ops Architecture</b>
+  From Idea → AI Agent → Content & Strategy Engine  
+  - <a href="https://github.com/bgleton1031/Quiet-Rich-Club-AI-Ops-Architecture/blob/main/README.md">View Repository</a>
 
 <h2>🖥️ Identity, Systems & Home Lab Projects</h2>
 
