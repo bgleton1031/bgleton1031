@@ -32,6 +32,8 @@ security posture, streamline communication, and scale technical enablement acros
 - <b>Quiet Rich Club AI Ops Architecture</b>
   From Idea → AI Agent → Content & Strategy Engine  
   - <a href="https://github.com/bgleton1031/Quiet-Rich-Club-AI-Ops-Architecture/blob/main/README.md">View Repository</a>
+- <b>OpenClaw AI Operating System</b>
+  - <a href="https://github.com/bgleton1031/openclaw-ai-operating-system/edit/main/README.md">View Repository</a>
 
 <h2>🖥️ Identity, Systems & Home Lab Projects</h2>
 
