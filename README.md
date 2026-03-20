@@ -26,10 +26,13 @@ security posture, streamline communication, and scale technical enablement acros
 
 <h2>🤖 AI & Automation Projects</h2>
 
+- <b>Secure AI Knowledge Assistant</b>  
+  A secure, local AI assistant that answers questions using only approved internal documents - with built-in protections against hallucination, prompt injection, and unauthorized access.  
+  - <a href="https://github.com/bgleton1031/secure-ai-knowledge-assistant">View Repository</a>
 - <b>AI-Powered Client Communication Workflow</b>  
   Governance-aware AI workflow that streamlines client communication using structured intake, AI-generated drafts, human review, CRM/email automation, and knowledge base logging.  
   - <a href="https://github.com/bgleton1031/AI-Powered-Client-Communication-Workflow">View Repository</a>
-- <b>Quiet Rich Club AI Ops Architecture</b>
+- <b>Quiet Rich Club AI Ops Architecture</b>  
   From Idea → AI Agent → Content & Strategy Engine  
   - <a href="https://github.com/bgleton1031/Quiet-Rich-Club-AI-Ops-Architecture/blob/main/README.md">View Repository</a>
 - <b>OpenClaw AI Operating System</b>
